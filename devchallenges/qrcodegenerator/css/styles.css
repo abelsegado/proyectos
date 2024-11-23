@@ -123,7 +123,7 @@ main {
 
 }
 
-.botones button {
+.botones div {
     border-radius: 15px;
     background-color: #3762e4;
     color: #fff;
